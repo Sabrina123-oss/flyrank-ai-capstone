@@ -10,3 +10,6 @@ Front-end AI Engineering
 - Build practical AI-assisted development skills
 - Use AI effectively during software development
 - Build and document a real project
+## Current Status
+
+Week 1 - Environment and AI Toolchain
