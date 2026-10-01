@@ -28,3 +28,9 @@ Front-end AI Engineering
 - Review AI-generated code before accepting it.
 - Prefer small, understandable changes.
 - Do not add unnecessary functionality.
+## Code Review
+Before finalizing changes:
+1. Check for errors.
+2. Review AI-generated code.
+3. Test the affected functionality.
+4. Keep the implementation minimal.
